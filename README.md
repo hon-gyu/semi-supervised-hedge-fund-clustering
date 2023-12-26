@@ -1,6 +1,6 @@
 # Semi-supervised Hedge Fund Clustering
 
-A semi-supervised clustering method utilizing tree distance for enhanced hierarchical classification of funds in fund of funds analyses.
+A semi-supervised clustering method utilizing tree distance for enhanced hierarchical classification of funds in fund of funds analysis.
 
 It incorporates a limited number of known hierarchical classifications, such as those obtained through due diligence, making it semi-supervised. Additionally, it employs hierarchical tree distance to effectively utilize fund classification features provided by data vendors, accommodating varying taxonomy systems.
 
