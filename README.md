@@ -1,10 +1,10 @@
 # Semi-supervised Hedge Fund Clustering
 
-This repo demonstrates a semi-supervised clustering algorithm for fund of funds analysis. It attempts to provide a method for hierarchical classification of funds. 
+A semi-supervised clustering method utilizing tree distance for enhanced hierarchical classification of funds in fund of funds analyses.
 
-An innovation is the utilisation of a limited number of known cascade classifications, e.g. those obtained through due diligence, which is why it is semi-supervised. Another innovation is that it uses hierarchical tree distance in order to take advantage of a fund classification feature provided by data vendors, a feature whose taxonomy might be different from our system.
+It incorporates a limited number of known hierarchical classifications, such as those obtained through due diligence, making it semi-supervised. Additionally, it employs hierarchical tree distance to effectively utilize fund classification features provided by data vendors, accommodating varying taxonomy systems.
 
-The implementation is based on my two other repo, [AKB-distance](https://github.com/hon-gyu/hierarchical-tree-distance) and [semi-supervised-chameleon-clustering](https://github.com/hon-gyu/semi-supervised-chameleon-clustering).
+The implementation is based on my two other repos, [AKB-distance](https://github.com/hon-gyu/hierarchical-tree-distance) for measuring tree distance, and [semi-supervised-chameleon-clustering](https://github.com/hon-gyu/semi-supervised-chameleon-clustering) for the clustering framework, offering a comprehensive solution tailored for fund of fund anallysis.
 
 ## Motivation
 
